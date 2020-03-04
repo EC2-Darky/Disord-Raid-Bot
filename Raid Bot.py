@@ -9,7 +9,7 @@ client=commands.Bot(command_prefix='>')
 async def on_ready():
 	print('Bot is ready!')
 	print('--------------------------')
-	print('Bot by Ｄａｒｋｙダハッカー#8987')
+	print('Bot by EC2★Darky#9770')
 	print('----------------------------------')
 
 client.remove_command("help")
